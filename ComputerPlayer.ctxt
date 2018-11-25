@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComputerPlayer
+comment0.text=\r\n\ Vererbt\ an\ die\ Klassen\ ComputerPlayerRandomOption\ und\ ComputerPlayerFirstOption\r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=name\ dominosHoldingOnHand
+comment1.target=ComputerPlayer(java.lang.String,\ java.util.ArrayList)
+comment2.params=name\ domino
+comment2.target=void\ printChosenDomino(java.lang.String,\ Domino)
+comment3.params=name\ side
+comment3.target=void\ printChosenSide(java.lang.String,\ int)
+numComments=4

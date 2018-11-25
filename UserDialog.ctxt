@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UserDialog
+comment1.params=label\ alternatives
+comment1.target=int\ getUserInput(java.lang.String,\ java.lang.String[])
+comment2.params=
+comment2.target=int\ scanUserInput()
+comment3.params=label\ alternatives
+comment3.target=void\ promptUser(java.lang.String,\ java.lang.String[])
+numComments=4

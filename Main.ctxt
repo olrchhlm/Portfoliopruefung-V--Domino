@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Erzeugt\ ein\ DominoGame\ mit\ einem\ menschlichen\ Spieler\ sowie\ einem\ ComputerPlayerFirstOption.\r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ startDomino()
+numComments=2

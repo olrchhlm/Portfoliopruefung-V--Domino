@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ComputerPlayerRandomOption
+comment0.text=\r\n\ Hazardierender\ Computer-Spieler,\ der\ immer\ eine\ zuf\u00E4llige\ M\u00F6glichkeit\ w\u00E4hlt.\r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=name\ dominosHoldingOnHand
+comment1.target=ComputerPlayerRandomOption(java.lang.String,\ java.util.ArrayList)
+comment2.params=dominoOnTable
+comment2.target=java.util.Optional\ makeMove(Domino)
+comment3.params=
+comment3.target=int\ selectSide()
+comment4.params=limit
+comment4.target=int\ generateRandomNumber(int)
+numComments=5

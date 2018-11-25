@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\r\n\ Erm\u00F6glicht\ die\ Teilnahme\ von\ menschlichen\ Spielern\ mittels\ Eingabekonsole.\ \r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=name\ dominosHoldingOnHand
+comment1.target=HumanPlayer(java.lang.String,\ java.util.ArrayList)
+comment2.params=dominoOnTable
+comment2.target=java.util.Optional\ makeMove(Domino)
+comment3.params=
+comment3.target=int\ selectSide()
+comment4.params=possibleChoices
+comment4.target=java.lang.String[]\ possibleChoicesToStringArray(java.util.ArrayList)
+numComments=5

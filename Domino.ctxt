@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Domino
+comment0.text=\r\n\ Dominostein\ mit\ zwei\ Werten\ (links\ &\ rechts)\r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=left\ right
+comment1.target=Domino(int,\ int)
+comment2.params=
+comment2.target=int\ getLeft()
+comment3.params=value
+comment3.target=void\ setLeft(int)
+comment4.params=
+comment4.target=int\ getRight()
+comment5.params=value
+comment5.target=void\ setRight(int)
+comment6.params=
+comment6.target=java.lang.String\ dominoAsString()
+numComments=7

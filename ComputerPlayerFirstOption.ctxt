@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComputerPlayerFirstOption
+comment0.text=\r\n\ Einf\u00E4ltiger\ Computer-Spieler,\ der\ immer\ die\ erste\ M\u00F6glichkeit\ w\u00E4hlt.\r\n\ \r\n\ @author\ Ole\ Reichhelm\r\n\ @version\ 1.0\r\n
+comment1.params=name\ dominosHoldingOnHand
+comment1.target=ComputerPlayerFirstOption(java.lang.String,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ selectSide()
+comment3.params=dominoOnTable
+comment3.target=java.util.Optional\ makeMove(Domino)
+numComments=4
